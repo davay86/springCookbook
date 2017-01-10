@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="viewAndControllers:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="controllerAndView.war">
+      <element id="artifact" artifact-name="viewAndControllers:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+com/springcookbook/dao/UserDAO$UserMapper.class
+com/springcookbook/dao/UserDAO.class
+com/springcookbook/controller/userController.class
+com/springcookbook/config/ServletInitialiser.class
+com/springcookbook/dao/UserDAO$1.class
+com/springcookbook/domain/User.class
+com/springcookbook/dao/UserDAO$UserWithPosts.class
+com/springcookbook/config/AppConfig.class
+com/springcookbook/domain/Post.class

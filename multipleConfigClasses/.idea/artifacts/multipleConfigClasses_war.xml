@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="multipleConfigClasses:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springwebapp.war">
+      <element id="artifact" artifact-name="multipleConfigClasses:war exploded" />
+    </root>
+  </artifact>
+</component>

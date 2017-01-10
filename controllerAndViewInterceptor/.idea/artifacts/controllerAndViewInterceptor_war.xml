@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="controllerAndViewInterceptor:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springwebapp.war">
+      <element id="artifact" artifact-name="controllerAndViewInterceptor:war exploded" />
+    </root>
+  </artifact>
+</component>

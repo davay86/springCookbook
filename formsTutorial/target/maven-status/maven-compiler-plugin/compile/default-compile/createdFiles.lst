@@ -1,0 +1,4 @@
+com/springcookbook/config/ServletInitializer.class
+com/springcookbook/domain/User.class
+com/springcookbook/controller/UserController.class
+com/springcookbook/config/AppConfig.class

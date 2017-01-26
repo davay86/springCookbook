@@ -1,0 +1,5 @@
+com/springcookbook/batch/UserProcessIncrementAge.class
+com/springcookbook/batch/BatchConfig.class
+com/springcookbook/config/ServletInitializer.class
+com/springcookbook/domain/User.class
+com/springcookbook/config/AppConfig.class

@@ -1,0 +1,5 @@
+com/springcookbook/batch/BatchConfig.class
+com/springcookbook/config/ServletInitilizer.class
+com/springcookbook/controller/TestController.class
+com/springcookbook/batch/Task1.class
+com/springcookbook/config/AppConfig.class
